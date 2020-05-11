@@ -1,8 +1,9 @@
 # Speaker-recognition
-An automatic speaker recognition system built from digital signal processing tools and LBG algorithm 
+An automatic speaker recognition system built from digital signal processing tools and LBG algorithm.
 In this project we will experiment with the building and testing of an automatic speaker recognition system.
 In order to build such a system, one have to go through the steps that were described in previous sections. 
 We create two utility functions euc_dist and codebooks and two main functions: training and testing.
+# Implementation
 Our goal is to train a voice model (or more specific, a VQ codebook in the MFCC
 vector space) for each speaker S1 – S3 using the corresponding sound file in the train
 folder. After this training step, the system would have knowledge of the voice
