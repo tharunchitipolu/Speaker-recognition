@@ -1,6 +1,7 @@
 # Speaker-recognition
-# Digital Signal Processing course project
-An automatic speaker recognition system built from digital signal processing tools and LBG algorithm.
+Digital Signal Processing course project:
+
+ An automatic speaker recognition system built from digital signal processing tools and LBG algorithm.
 In this project we will experiment with the building and testing of an automatic speaker recognition system.
 In order to build such a system, one have to go through the steps that were described in previous sections. 
 We create two utility functions euc_dist and codebooks and two main functions: training and testing.
